@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-> Todos los asistentes, expositores, voluntarios y auspiciadores tanto de los eventos realizados a traves de Javascript Chile (JSConf, NodeSchool, meetups, etc), asi como quienes participen e interactuen en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Discord, Twitter, etc), deberán seguir y respetar nuestro código de conducta.
+> Todos los asistentes, expositores, voluntarios y auspiciadores tanto de los eventos realizados a traves de Javascript Chile (JSConf, NodeSchool, meetups, etc), asi como quienes participen e interactuen en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Discord, Twitter, etc), se comprometen a seguir y respetar nuestro código de conducta.
 >
 > La organización siempre se encargará de velar por el cumplimiento y respeto de lo aquí expuesto.
 >
