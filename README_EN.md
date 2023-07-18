@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-> All attendees, speakers, volunteers and sponsors of both the events held through JSConf Chile, as well as those who participate and interact on any of the social media platforms (Facebook Groups, Slack, Discord, Twitter, etc), must follow and respect our code of conduct.
+> All attendees, speakers, volunteers and sponsors of both the events held through Javascript Chile, as well as those who participate and interact on any of the social media platforms (Facebook Groups, Slack, Discord, Twitter, etc), must follow and respect our code of conduct.
 >
 > The organization will do their best to ensure compliance, and agreement for what is stated here.
 >
@@ -14,7 +14,7 @@ Have you ever seen, that after some events, everyone ends up talking about "that
 
 ### The not so short version
 
-In all the events run by JSConf Chile (SantiagoJS, NodeSchool, Meetup, JSConf, other conferences, etc), as well as in any of the social network platforms (Facebook Groups, Slack, Twitter, etc) we seek to create a space, and an experience, free of harassment.
+In all the events run by Javascript Chile (SantiagoJS, NodeSchool, Meetup, JSConf, other conferences, etc), as well as in any of the social network platforms (Facebook Groups, Slack, Twitter, etc) we seek to create a space, and an experience, free of harassment.
 Our motto is that everyone is welcome, regardless of gender, race, sexual orientation, disabilities, physical appearance and/or beliefs.
 We *do not tolerate harassment* in any way, form or context, directly or indirectly. Any participant who violates these rules will be sanctioned and expelled from this and future events.
 
