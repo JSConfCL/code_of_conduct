@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-> All attendees, speakers, volunteers and sponsors of both the events held through Javascript Chile, as well as those who participate and interact on any of the social media platforms (Facebook Groups, Slack, Discord, Twitter, etc), must follow and respect our code of conduct.
+> All attendees, speakers, volunteers and sponsors of both the events held through Javascript Chile (JSConf, TechSchool, Meetups, e-Meetups, Podcasts, etc), as well as those who participate and interact on any of the social media platforms (Facebook, Slack, Discord, Twitter, etc), must follow and respect our code of conduct.
 >
 > The organization will do their best to ensure compliance, and agreement for what is stated here.
 >
@@ -10,13 +10,15 @@
 
 ### The shortest version of all
 
-Have you ever seen, that after some events, everyone ends up talking about "that person" who caused one or more attendees a hard time? Don't be that person ;)
+Have you ever seen, that after some events, everyone ends up talking about "that person" who caused one or more attendees a hard time? Don't be that person :)
 
 ### The not so short version
 
-In all the events run by Javascript Chile (SantiagoJS, NodeSchool, Meetup, JSConf, other conferences, etc), as well as in any of the social network platforms (Facebook Groups, Slack, Twitter, etc) we seek to create a space, and an experience, free of harassment.
+In all the events run by Javascript Chile (JSConf, TechSchool, Conferences, etc), as well as in any of the social network platforms (Facebook, Slack, Discord, Twitter, etc) we seek to create a space, and an experience, free of harassment.
+
 Our motto is that everyone is welcome, regardless of gender, race, sexual orientation, disabilities, physical appearance and/or beliefs.
-We *do not tolerate harassment* in any way, form or context, directly or indirectly. Any participant who violates these rules will be sanctioned and expelled from this and future events.
+
+***We do not tolerate harassment in any way, form or context, directly or indirectly***. Any participant who violates these rules will be sanctioned and expelled from this and future events.
 
 ### The longest version
 
@@ -32,4 +34,4 @@ If necessary, the organization will help contact law enforcement authorities and
 
 ---
 
-### We are an inclusive community that values, and promotes diversity. If you don't agree with this, you probably shouldn't be in our events ;)
+### ***We are an inclusive community that values, and promotes diversity. If you don't agree with this, you probably shouldn't be in our events*** ;)

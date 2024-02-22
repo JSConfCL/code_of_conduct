@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-> Todos los asistentes, expositores, voluntarios y auspiciadores tanto de los eventos realizados a traves de Javascript Chile (JSConf, NodeSchool, meetups, etc), asi como quienes participen e interactuen en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Discord, Twitter, etc), se comprometen a seguir y respetar nuestro código de conducta.
+> Todos los asistentes, expositores, voluntarios y auspiciadores tanto de los eventos realizados a traves de Javascript Chile (JSConf, TechSchool, Meetups, e-Meetups, Podcasts, etc), asi como quienes participen e interactuen en cualquiera de las plataformas de redes sociales (Facebook, Slack, Discord, Twitter, etc), se comprometen a seguir y respetar nuestro código de conducta.
 >
 > La organización siempre se encargará de velar por el cumplimiento y respeto de lo aquí expuesto.
 >
@@ -14,9 +14,11 @@
 
 ### La versión no tan corta
 
-En los eventos desarrollados por Javascript Chile (SantiagoJS, NodeSchool, Conferencias, etc), asi como en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Twitter, etc) buscamos crear un espacio, y una experiencia, libre de acoso.
+En los eventos desarrollados por Javascript Chile (JSConf, TechSchool, Conferencias, etc), asi como en cualquiera de las plataformas de redes sociales (Facebook, Slack, Discord, Twitter, etc) buscamos crear un espacio, y una experiencia, libre de acoso.
+
 Nuestro lema es que todos son bienvenidos, sin importar género, raza, orientación sexual, capacidades, apariencia física y/o creencias.
-No toleramos el acoso bajo ningún tipo, forma ni contexto, directa o indirectamente. Cualquier participante que viole estas reglas será sancionado y expulsado de este y futuros eventos.
+
+***No toleramos el acoso bajo ningún tipo, forma ni contexto, directa o indirectamente***. Cualquier participante que viole estas reglas será sancionado y expulsado de este y futuros eventos.
 
 ### La versión más larga
 
@@ -32,4 +34,4 @@ Si es necesario, la organización ayudará a contactar autoridades policiales y/
 
 ---
 
-### Somos una comunidad inclusiva que valora la diversidad. Si no estás de acuerdo con esto, probablemente no debas estar en nuestros eventos ;)
+### ***Somos una comunidad inclusiva que valora la diversidad. Si no estás de acuerdo con esto, probablemente no debas estar en nuestros eventos*** ;)
